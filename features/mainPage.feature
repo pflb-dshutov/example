@@ -1,4 +1,4 @@
-Feature:  To work with Home Page
+Feature:  The https://cloud.google.com/blog/ main menu test
 
     @CucumberScenario
     Scenario: First scenario
