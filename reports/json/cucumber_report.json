@@ -1,14 +1,14 @@
 [
   {
     "keyword": "Feature",
-    "name": "To work with Home Page",
+    "name": "The https://cloud.google.com/blog/ main menu test",
     "line": 1,
-    "id": "to-work-with-home-page",
+    "id": "the-https://cloud.google.com/blog/-main-menu-test",
     "tags": [],
     "uri": "features\\mainPage.feature",
     "elements": [
       {
-        "id": "to-work-with-home-page;first-scenario",
+        "id": "the-https://cloud.google.com/blog/-main-menu-test;first-scenario",
         "keyword": "Scenario",
         "line": 4,
         "name": "First scenario",
@@ -30,7 +30,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4287000000
+              "duration": 4236000000
             }
           },
           {
@@ -43,7 +43,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 51000000
+              "duration": 27000000
             }
           },
           {
@@ -79,7 +79,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 14000000
+              "duration": 30000000
             }
           },
           {
@@ -92,7 +92,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 263000000
+              "duration": 282000000
             }
           },
           {
@@ -105,7 +105,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 228000000
+              "duration": 209000000
             }
           },
           {
@@ -118,7 +118,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 312000000
+              "duration": 307000000
             }
           },
           {
@@ -131,7 +131,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 194000000
+              "duration": 171000000
             }
           },
           {
@@ -144,7 +144,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 405000000
+              "duration": 313000000
             }
           },
           {
